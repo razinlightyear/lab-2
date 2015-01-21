@@ -14,6 +14,11 @@ namespace TestProject
             // comment.
         }
 
+        static void foo()
+        {
+            // Lame method.
+        }
+
         static void MasterFoo()
         {
 
