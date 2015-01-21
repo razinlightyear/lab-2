@@ -13,5 +13,10 @@ namespace TestProject
             Console.Write("CS 3500");
             // comment.
         }
+
+        static void foo()
+        {
+            // Lame method.
+        }
     }
 }
